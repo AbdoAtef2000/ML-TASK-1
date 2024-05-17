@@ -1,0 +1,6 @@
+https://www.kaggle.com/code/lazybong/cnn-21/input
+
+
+
+
+TRAIN AND TEST DATA
